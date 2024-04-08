@@ -4,6 +4,7 @@ This is a set of resources for evaluating student writing for the clinical decis
 
 * General writing advice https://github.com/cmcntsh/PoWeRWritingGradStudents
 * Highlighting and feedback conventions https://github.com/cmcntsh/PoWeRWritingGradStudents#highlighting
+* At a minimum, I would strongly encourage students to run the copyediting prompt before submitting their work. It would be nice if they would also run the substantive editing prompt and address any gaps before submitting. It would also be nice if they would review their paragraphs for strong main topics and suitable organization.
 
 ## CDS Background & Justification
 
