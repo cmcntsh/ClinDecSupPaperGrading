@@ -7,7 +7,7 @@ This is a set of resources for evaluating student writing for the clinical decis
 
 ## CDS Background & Justification
 
-### copyediting & Evaluation (spelling, grammar, punctuation)
+### Copyediting & Evaluation (spelling, grammar, punctuation)
 
 Prompt:
 
@@ -25,7 +25,7 @@ How well does the following text answer each of these questions? What is the cli
 
 ## Workflow integration and low fidelity prototype (mock-ups)
 
-### copyediting & Evaluation (spelling, grammar, punctuation)
+### Copyediting & Evaluation (spelling, grammar, punctuation)
 
 Prompt:
 
@@ -43,7 +43,7 @@ How well does the following text answer each of these questions? How does the cl
 
 ## System Specification (knowledge engineering & architecture)
 
-### copyediting & Evaluation (spelling, grammar, punctuation)
+### Copyediting & Evaluation (spelling, grammar, punctuation)
 
 Prompt:
 
@@ -61,7 +61,7 @@ How well does the following text answer each of these questions? What is the kno
 
 ## Implementation and Evaluation Plan
 
-### copyediting & Evaluation (spelling, grammar, punctuation)
+### Copyediting & Evaluation (spelling, grammar, punctuation)
 
 Prompt:
 
